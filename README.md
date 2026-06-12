@@ -9,3 +9,4 @@ Task 4:Semantic Search
 
 Task 5: Hugging face exploration
 
+Task 6: Tokenization
