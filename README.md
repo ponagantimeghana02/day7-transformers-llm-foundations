@@ -5,12 +5,16 @@ Task 1: transformers architecture
 
 Task 2: Embeddings demo
 
-Task 4:Semantic Search
+Task 3:Semantic Search
 
-Task 5: Hugging face exploration
+Task 4: Hugging face exploration
 
-Task 6: Tokenization
+Task 5: Tokenization
 
-Task 7: QA system
+Task 6: QA system
 
-TAsk 8: Search comparision
+TAsk 7: Search comparision
+
+Task 8: llm_foundations
+
+
