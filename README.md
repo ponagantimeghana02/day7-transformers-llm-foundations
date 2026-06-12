@@ -12,3 +12,5 @@ Task 5: Hugging face exploration
 Task 6: Tokenization
 
 Task 7: QA system
+
+TAsk 8: Search comparision
